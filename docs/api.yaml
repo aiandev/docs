@@ -1,17 +1,17 @@
 openapi: 3.0.1
 info:
-  title: Chaindesk.ai - API OpenAPI specifications
+  title: Bizchat.io.ai - API OpenAPI specifications
   description: |-
 
-  termsOfService: http://chaindesk.ai/terms
+  termsOfService: http://bizchat.io/terms
   contact:
-    email: support@chaindesk.ai
+    email: support@bizchat.io
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0.html
   version: 1.0.0
 servers:
-  - url: https://api.chaindesk.ai
+  - url: https://api.bizchat.io
 tags:
   - name: agents
   - name: datastores

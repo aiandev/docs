@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "chaindesk.ai - Connect custom data to large language models",
+  "name": "bizchat.io - Connect custom data to large language models",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -23,18 +23,18 @@
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://chaindesk.ai/"
+    "url": "https://bizchat.io/"
   },
   "anchors": [
     {
-      "name": "chaindesk API",
+      "name": "Bizchat.io API",
       "icon": "rectangle-terminal",
       "url": "api-reference"
     },
     {
-      "name": "support@chaindesk.ai",
+      "name": "support@bizchat.io",
       "icon": "comment-question",
-      "url": "mailto:support@chaindesk.ai"
+      "url": "mailto:support@bizchat.io"
     }
   ],
   "navigation": [
@@ -43,7 +43,7 @@
       "pages": ["introduction", "platform"]
     },
     {
-      "group": "chaindesk API",
+      "group": "Bizchat.io API",
       "pages": ["api-reference/authentication"]
     },
     {
