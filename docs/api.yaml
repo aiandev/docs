@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Bizchat.io.ai - API OpenAPI specifications
+  title: Bizchat.io - API OpenAPI specifications
   description: |-
 
   termsOfService: http://bizchat.io/terms
