@@ -3,7 +3,7 @@ info:
   title: Chaindesk.ai - API OpenAPI specifications
   description: |-
 
-  termsOfService: http://chaindesk.ai/terms
+  termsOfService: http://chaindesk.ai/terms 
   contact:
     email: support@chaindesk.ai
   license:
