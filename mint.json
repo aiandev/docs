@@ -12,14 +12,7 @@
     "dark": "#6132A9"
   },
   "topbarLinks": [
-    {
-      "name": "Github",
-      "url": "https://github.com/gmpetrov/databerry"
-    },
-    {
-      "name": "Discord",
-      "url": "https://discord.gg/FSWKj49ckX"
-    }
+ 
   ],
   "topbarCtaButton": {
     "name": "Get Started",
@@ -73,8 +66,5 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/georges_petrov",
-    "discord": "https://discord.gg/FSWKj49ckX",
-    "github": "https://github.com/gmpetrov/databerry"
   }
 }

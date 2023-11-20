@@ -17,7 +17,7 @@ openapi: 'POST /datasources'
 ### Example JS Code to create a Datasource of type 'file'
 
 ```js
-const apiUrl = 'https://api.bizchat.io';
+const apiUrl = 'https://bizchat.io/api';
 const apiKey = 'XXX';
 const datastoreId = 'XXX';
 
@@ -50,7 +50,7 @@ const res = await fetch(`${apiUrl}/datasources`, {
 ### Example JS Code to create a Datasource of type 'web_page'
 
 ```js
-const apiUrl = 'https://api.bizchat.io';
+const apiUrl = 'https://bizchat.io/api';
 const apiKey = 'XXX';
 const datastoreId = 'XXX';
 
@@ -74,7 +74,7 @@ const res = await fetch(`${apiUrl}/datasources`, {
 ### Example JS Code to create a Datasource of type 'web_site' with a sitemap
 
 ```js
-const apiUrl = 'https://api.bizchat.io';
+const apiUrl = 'https://bizchat.io/api';
 const apiKey = 'XXX';
 const datastoreId = 'XXX';
 
@@ -89,7 +89,7 @@ const res = await fetch(`${apiUrl}/datasources`, {
       sitemap: 'https://docs.bizchat.io/sitemap.xml',
 
       // Or Auto Discovery
-      source_url: 'https://docs.databerry.ai',
+      source_url: 'https://docs.bizchat.io',
     },
   }),
   headers: {
